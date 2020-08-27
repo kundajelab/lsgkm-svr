@@ -14,7 +14,11 @@ kundalelab/lsgkm in turn builds off of Dongwon-Lee/lsgkm (the original lsgkm rep
 
 ### Citation
 
-If you use the regression functionality, cite this repository.
+*Please cite this repository if you use the regression functionality in your research*
+
+*Please cite the following paper if you use gkmexplain in your research:*
+
+* Shrikumar, A.\*†, Prakash, E.†, Kundaje, A*. GkmExplain: fast and accurate interpretation of nonlinear gapped k-mer SVMs. Bioinformatics, Volume 35, Issue 14, July 2019, Pages i173–i182 (2019). doi:10.1093/bioinformatics/btz322 *\* Co-corresponding authors* *† Co-first authors*. Please refer to https://github.com/kundajelab/gkmexplain for code to replicate the analysis in the paper.
 
 *Please cite the following paper if you use LS-GKM in your research:*
 
@@ -22,9 +26,6 @@ If you use the regression functionality, cite this repository.
 i
 * Lee, D. LS-GKM: A new gkm-SVM for large-scale Datasets. Bioinformatics btw142 (2016). doi:10.1093/bioinformatics/btw142
 
-*Please cite the following paper if you use gkmexplain in your research:*
-
-* Shrikumar, A.\*†, Prakash, E.†, Kundaje, A*. GkmExplain: fast and accurate interpretation of nonlinear gapped k-mer SVMs. Bioinformatics, Volume 35, Issue 14, July 2019, Pages i173–i182 (2019). doi:10.1093/bioinformatics/btz322 *\* Co-corresponding authors* *† Co-first authors*. Please refer to https://github.com/kundajelab/gkmexplain for code to replicate the analysis in the paper.
 
 ### Installation
 
