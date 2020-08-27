@@ -221,7 +221,7 @@ The output file will have three columns corresponding to "region id", "score fro
 
 Please see the colab example notebooks at https://github.com/kundajelab/gkmexplain for code demonstrating how to visualize the resulting scores.
 
-Although I (Av Shrikumar) haven't implemented support for multiple threads, the process of generating explanations can be parallelized by sequence; it is advisable to split your input sequences file into multiple smaller files, running gkmexplain in parallel on each smaller file, and concatenate the results. See [here](scripts/parallelize_gkmexplain.sh) for a script to do that, written by Anna Shcherbina.
+Although I (Av Shrikumar) haven't implemented support for multiple threads, the process of generating explanations can be parallelized by sequence; see [here](scripts/parallelize_gkmexplain.sh) for a script to do that parallelization, written by Anna Shcherbina.
 
 
 
