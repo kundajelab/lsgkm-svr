@@ -8,9 +8,9 @@ achieves considerably higher accuracy than the original gkm-SVM.
 
 gkmexplain provides functionality for explaining the predictions made by a lsgkm model.
 
-This repository extends the lsgkm functionality further to support regression.
-It builds off of kundajelab/lsgkm (which has gkmexplain).
-kundalelab/lsgkm in turn builds off of Dongwon-Lee/lsgkm (the original lsgkm repository)
+This repository extends the lsgkm functionality further to support regression.  
+It builds off of kundajelab/lsgkm (which has gkmexplain).  
+kundalelab/lsgkm in turn builds off of Dongwon-Lee/lsgkm (the original lsgkm repository).
 
 ### Citation
 
