@@ -1,7 +1,7 @@
 #!/usr/bin/env bash 
 
 #This script was written by Anna Shcherbina
-
+#It takes the four arguments listed below:
 inputf=$1  ## input fasta file 
 numchunks=$2 ## number of parallel chunks to split input fasta file into 
 numthreads=$3 ## number of chunks to process in parallel with gkmexplain 
