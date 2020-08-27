@@ -2,7 +2,7 @@
 src/gkmexplain
 src/gkmpredict
 src/gkmtrain
-bin/
+bin/*
 src/libsvm.o
 src/libsvm_gkm.o
 tests
