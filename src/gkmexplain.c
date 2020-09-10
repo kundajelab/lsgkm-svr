@@ -190,6 +190,7 @@ void predict_and_explain(FILE *input, FILE *output, int mode)
         }
     }
     fprintf(output, "\n");
+    fflush(output);
 
     //free explanation
     for (i=0; i<MAX_SEQ_LENGTH; i++) {
