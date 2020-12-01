@@ -17,10 +17,10 @@ The API for this tool is backwards-compatible with the original lsgkm implementa
 
 * Shrikumar, A.\*†, Prakash, E.†, Kundaje, A*. GkmExplain: fast and accurate interpretation of nonlinear gapped k-mer SVMs. Bioinformatics, Volume 35, Issue 14, July 2019, Pages i173–i182 (2019). doi:10.1093/bioinformatics/btz322 *\* Co-corresponding authors* *† Co-first authors*. Please refer to https://github.com/kundajelab/gkmexplain for code to replicate the analysis in the paper.
 
-*Please cite the following paper if you use LS-GKM in your research:*
+*Please cite the following papers if you use LS-GKM in your research:*
 
 * Ghandi, M.†, Lee, D.†, Mohammad-Noori, M. & Beer, M. A. Enhanced Regulatory Sequence Prediction Using Gapped k-mer Features. PLoS Comput Biol 10, e1003711 (2014). doi:10.1371/journal.pcbi.1003711 *† Co-first authors*
-i
+
 * Lee, D. LS-GKM: A new gkm-SVM for large-scale Datasets. Bioinformatics btw142 (2016). doi:10.1093/bioinformatics/btw142
 
 
