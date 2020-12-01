@@ -1,5 +1,7 @@
 ## LS-GKM + gkmexplain + regression: Extension of lsgkm to regression, with explanations
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4300866.svg)](https://doi.org/10.5281/zenodo.4300866)
+
 gkm-SVM, a sequence-based method for predicting regulatory DNA elements,
 is a useful tool for studying gene regulatory mechanisms. `LS-GKM`,
 offers much better scalability and provides further
@@ -15,6 +17,7 @@ kundalelab/lsgkm in turn builds off of Dongwon-Lee/lsgkm (the original lsgkm rep
 ### Citation
 
 *Please cite this repository if you use the regression functionality in your research*
+(https://doi.org/10.5281/zenodo.4300866)
 
 *Please cite the following paper if you use gkmexplain in your research:*
 
