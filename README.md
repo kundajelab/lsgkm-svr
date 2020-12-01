@@ -16,8 +16,9 @@ kundalelab/lsgkm in turn builds off of Dongwon-Lee/lsgkm (the original lsgkm rep
 
 ### Citation
 
-*Please cite this repository if you use the regression functionality in your research*
-(https://doi.org/10.5281/zenodo.4300866)
+*Please cite this repository if you use the **regression functionality** in your research:*
+
+* https://doi.org/10.5281/zenodo.4300866
 
 *Please cite the following paper if you use gkmexplain in your research:*
 
