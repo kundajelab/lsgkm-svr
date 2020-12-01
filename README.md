@@ -10,12 +10,9 @@ achieves considerably higher accuracy than the original gkm-SVM.
 
 gkmexplain provides functionality for explaining the predictions made by a lsgkm model.
 
-This repository extends the lsgkm functionality further to support regression.  
-It builds off of kundajelab/lsgkm (which has gkmexplain).  
-kundalelab/lsgkm in turn builds off of Dongwon-Lee/lsgkm (the original lsgkm repository).
+This repository extends the lsgkm functionality further to support regression. It builds off of kundajelab/lsgkm (which has gkmexplain), which in turn builds off of Dongwon-Lee/lsgkm (the original lsgkm repository).
 
-Note that the API for this tool is backwards-compatible with the original lsgkm implementation.
-
+Note that the API for this tool is backwards-compatible with the original lsgkm implementation. See [this Colab notebook](https://colab.research.google.com/github/kundajelab/rlsgkm/blob/master/examples/Demo_Regression_on_Simulated_Data.ipynb) for an example tutorial.
 ### Citation
 
 *Please cite this repository if you use the **regression functionality** in your research:*
