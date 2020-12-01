@@ -4,7 +4,7 @@
 
 gkm-SVM, a sequence-based method for predicting regulatory DNA elements, is a useful tool for studying gene regulatory mechanisms. `LS-GKM`, offers much better scalability and provides further advanced gapped *k*-mer based kernel functions. This repository extends the lsgkm functionality further to support regression. It builds off of kundajelab/lsgkm (which has gkmexplain functionality for interpreting the predictions), which in turn builds off of Dongwon-Lee/lsgkm (the original lsgkm repository).
 
-I created a separate repository (rather than forking Dongwon-Lee/lsgkm) so that users can post github issues to this repository (it is not possible to post github issues to forked repositories).
+I (Avanti Shrikumar) created a separate repository (rather than forking Dongwon-Lee/lsgkm) so that users can post github issues to this repository (it is not possible to post github issues to forked repositories).
 
 The API for this tool is backwards-compatible with the original lsgkm implementation. See [this Colab notebook](https://colab.research.google.com/github/kundajelab/rlsgkm/blob/master/examples/Demo_Regression_on_Simulated_Data.ipynb) for an example tutorial.
 ### Citation
