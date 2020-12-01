@@ -14,6 +14,8 @@ This repository extends the lsgkm functionality further to support regression.
 It builds off of kundajelab/lsgkm (which has gkmexplain).  
 kundalelab/lsgkm in turn builds off of Dongwon-Lee/lsgkm (the original lsgkm repository).
 
+Note that the API for this tool is backwards-compatible with the original lsgkm implementation.
+
 ### Citation
 
 *Please cite this repository if you use the **regression functionality** in your research:*
